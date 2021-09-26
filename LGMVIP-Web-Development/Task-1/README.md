@@ -7,4 +7,3 @@ IDE used: VS Code
 
 Languages: HTML, CSS, JavaScript
 
-Website Link: https://srblgmvipt1.netlify.app
